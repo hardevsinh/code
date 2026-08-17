@@ -1,24 +1,23 @@
-vCard - Personal Portfolio
-
+Hardevsinh Mori - Software Developer
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Hardevsinh Mori
+Hardevsinh Mori
+Software Developer
 
 Show Contacts
 
 Email
-richard@example.com
+hardevsinh18@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 799 032 1989
 
 Birthday
-June 23, 1982
+January, 1995
 
 Location
-Sacramento, California, USA
+Ahmedabad, Gujarat, India
 
 # navbar
 
