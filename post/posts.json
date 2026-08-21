@@ -1,4 +1,12 @@
 [
+    {
+    "slug": "maui-ai-integration",
+    "title": "Building Smarter Apps: .NET MAUI + AI",
+    "category": "Coding",
+    "date": "2026-08-21",
+    "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80&auto=format&fit=crop",
+    "excerpt": "How to wire cloud or on-device AI into a cross-platform .NET MAUI app, with a working code pattern."
+  },
   {
     "slug": "design-conferences-2026",
     "title": "Design conferences worth attending",
