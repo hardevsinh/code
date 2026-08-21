@@ -1880,3 +1880,34 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+
+.post-body {
+  color: var(--light-gray, #b0b6bd);
+  line-height: 1.8;
+}
+
+.post-body h2,
+.post-body h3 {
+  color: var(--white-2, #fff);
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+.post-body p {
+  margin-bottom: 16px;
+}
+
+.post-body ul,
+.post-body ol {
+  margin-bottom: 16px;
+  padding-left: 20px;
+}
+
+.post-body li {
+  margin-bottom: 8px;
+}
+
+.post-body strong {
+  color: var(--white-2, #fff);
+}
